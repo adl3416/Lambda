@@ -49,7 +49,7 @@ public class Lambda01 {
         System.out.println("   ***   ");
         kupBirFazlaTekFunction(list);
         System.out.println();
-        System.out.println("   *** karakokk  ");
+        System.out.println("   *** karakok  ");
         karekokCiftfunctional(list);
         System.out.println();
         System.out.println("   *** maxEl  ");
